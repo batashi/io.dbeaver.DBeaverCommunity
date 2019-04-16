@@ -92,6 +92,7 @@
     ],
     "build-options" : {
         "env" : {
+            "disable-download" : "false"
         }
     }
 }
